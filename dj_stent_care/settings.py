@@ -52,7 +52,7 @@ DATABASES = {
         'NAME': 'dj_stent_care',
         'USER': 'root',
         'PASSWORD': '',          # Default XAMPP / MySQL has no password
-        'HOST': 'localhost',
+        'HOST': '127.0.0.1',
         'PORT': '3306',
         'OPTIONS': {
             'charset': 'utf8mb4',
